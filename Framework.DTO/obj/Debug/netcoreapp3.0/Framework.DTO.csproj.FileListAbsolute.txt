@@ -1,0 +1,9 @@
+C:\Project\MyProject\Framework.netCore\Framework.DTO\bin\Debug\netcoreapp3.0\Framework.DTO.deps.json
+C:\Project\MyProject\Framework.netCore\Framework.DTO\bin\Debug\netcoreapp3.0\Framework.DTO.dll
+C:\Project\MyProject\Framework.netCore\Framework.DTO\bin\Debug\netcoreapp3.0\Framework.DTO.pdb
+C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.0\Framework.DTO.csprojAssemblyReference.cache
+C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.0\Framework.DTO.AssemblyInfoInputs.cache
+C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.0\Framework.DTO.AssemblyInfo.cs
+C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.0\Framework.DTO.dll
+C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.0\Framework.DTO.pdb
+C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.0\Framework.DTO.csproj.CoreCompileInputs.cache

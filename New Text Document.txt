@@ -1,0 +1,43 @@
+   public abstract class ResultBase
+    {
+        protected ResultBase();
+        public bool Success { get; set; }
+        public string ErrorMessage { get; set; }
+        public List<ValidationError> ValidationErrors { get; set; }
+    }
+   public abstract class Request<TResult> where TResult : ResultBase
+    {
+        protected Request();
+    }
+public abstract class Result : ResultBase
+    {
+        protected Result();
+    }
+ public class Query<TResult> : Query where TResult : QueryResult
+    {
+        public Query();
+    }
+public abstract class QueryResult : ResultBase
+    {
+        protected QueryResult();
+    }
+public class ListQueryResult<T> : QueryResult
+    {
+        public ListQueryResult();
+
+        public ICollection<T> Entities { get; set; }
+        public int PageIndex { get; set; }
+        public int PageSize { get; set; }
+        public int TotalCount { get; set; }
+        public int TotalPages { get; }
+        public bool HasPreviousPage { get; }
+        public bool HasNextPage { get; }
+
+        public void ToPagedList(IQueryable<T> source, int pageIndex, int pageSize);
+    }
+ public abstract class SingleQueryResult<TEntity> : QueryResult
+    {
+        protected SingleQueryResult();
+
+        public TEntity Entity { get; set; }
+    }

@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Framework.Resource/1.0.0": {
+        "runtime": {
+          "Framework.Resource.dll": {}
+        },
+        "resources": {
+          "Fa/Framework.Resource.resources.dll": {
+            "locale": "Fa"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Framework.Resource/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

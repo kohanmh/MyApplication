@@ -1,0 +1,16 @@
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\bin\Debug\netcoreapp2.2\Framework.Resource.deps.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\bin\Debug\netcoreapp2.2\Framework.Resource.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\bin\Debug\netcoreapp2.2\Framework.Resource.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\bin\Debug\netcoreapp2.2\Fa\Framework.Resource.resources.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.csprojAssemblyReference.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.MessageKeys.resources
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.MessageKeys.Fa.resources
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.csproj.GenerateResource.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.csproj.CoreCompileInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.AssemblyInfoInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.AssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Fa\Framework.Resource.resources.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.pdb
+C:\Project\MyProject\Framework.netCore\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.dll
+C:\Project\MyProject\Framework.netCore\Framework.Resource\obj\Debug\netcoreapp2.2\Framework.Resource.pdb

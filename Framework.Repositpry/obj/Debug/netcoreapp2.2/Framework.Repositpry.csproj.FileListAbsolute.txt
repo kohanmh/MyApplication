@@ -1,0 +1,16 @@
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.csprojAssemblyReference.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.csproj.CoreCompileInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.AssemblyInfoInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.AssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\bin\Debug\netcoreapp2.2\Framework.Repositpry.deps.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\bin\Debug\netcoreapp2.2\Framework.Repositpry.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\bin\Debug\netcoreapp2.2\Framework.Repositpry.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\bin\Debug\netcoreapp2.2\Framework.Domain.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\bin\Debug\netcoreapp2.2\Framework.RepositoryContract.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\bin\Debug\netcoreapp2.2\Framework.RepositoryContract.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\bin\Debug\netcoreapp2.2\Framework.Domain.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.csproj.CopyComplete
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.pdb
+C:\Project\MyProject\Framework.netCore\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.dll
+C:\Project\MyProject\Framework.netCore\Framework.Repositpry\obj\Debug\netcoreapp2.2\Framework.Repositpry.pdb

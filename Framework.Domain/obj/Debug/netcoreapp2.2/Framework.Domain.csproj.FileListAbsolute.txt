@@ -1,0 +1,11 @@
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\bin\Debug\netcoreapp2.2\Framework.Domain.deps.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\bin\Debug\netcoreapp2.2\Framework.Domain.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\bin\Debug\netcoreapp2.2\Framework.Domain.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\obj\Debug\netcoreapp2.2\Framework.Domain.csprojAssemblyReference.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\obj\Debug\netcoreapp2.2\Framework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\obj\Debug\netcoreapp2.2\Framework.Domain.AssemblyInfoInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\obj\Debug\netcoreapp2.2\Framework.Domain.AssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\obj\Debug\netcoreapp2.2\Framework.Domain.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Domain\obj\Debug\netcoreapp2.2\Framework.Domain.pdb
+C:\Project\MyProject\Framework.netCore\Framework.Domain\obj\Debug\netcoreapp2.2\Framework.Domain.dll
+C:\Project\MyProject\Framework.netCore\Framework.Domain\obj\Debug\netcoreapp2.2\Framework.Domain.pdb

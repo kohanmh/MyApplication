@@ -1,0 +1,9 @@
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\bin\Debug\netcoreapp3.0\Framework.BusinessServiceContract.deps.json
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\bin\Debug\netcoreapp3.0\Framework.BusinessServiceContract.dll
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\bin\Debug\netcoreapp3.0\Framework.BusinessServiceContract.pdb
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\obj\Debug\netcoreapp3.0\Framework.BusinessServiceContract.csprojAssemblyReference.cache
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\obj\Debug\netcoreapp3.0\Framework.BusinessServiceContract.AssemblyInfoInputs.cache
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\obj\Debug\netcoreapp3.0\Framework.BusinessServiceContract.AssemblyInfo.cs
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\obj\Debug\netcoreapp3.0\Framework.BusinessServiceContract.dll
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\obj\Debug\netcoreapp3.0\Framework.BusinessServiceContract.pdb
+C:\Project\MyProject\Framework.netCore\Framework.BusinessServiceContract\obj\Debug\netcoreapp3.0\Framework.BusinessServiceContract.csproj.CoreCompileInputs.cache

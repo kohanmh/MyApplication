@@ -1,0 +1,17 @@
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\bin\Debug\netcoreapp2.2\Framework.Web.deps.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\bin\Debug\netcoreapp2.2\Framework.Web.runtimeconfig.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\bin\Debug\netcoreapp2.2\Framework.Web.runtimeconfig.dev.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\bin\Debug\netcoreapp2.2\Framework.Web.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\bin\Debug\netcoreapp2.2\Framework.Domain.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\bin\Debug\netcoreapp2.2\Framework.Domain.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.csprojAssemblyReference.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.csproj.CoreCompileInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.RazorAssemblyInfo.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.RazorAssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.AssemblyInfoInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.AssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.RazorTargetAssemblyInfo.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.csproj.CopyComplete
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\bin\Debug\netcoreapp2.2\Framework.Web.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Web\obj\Debug\netcoreapp2.2\Framework.Web.pdb

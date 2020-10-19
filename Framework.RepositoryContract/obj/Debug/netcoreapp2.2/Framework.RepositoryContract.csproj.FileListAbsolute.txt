@@ -1,0 +1,14 @@
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\bin\Debug\netcoreapp2.2\Framework.RepositoryContract.deps.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\bin\Debug\netcoreapp2.2\Framework.RepositoryContract.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\bin\Debug\netcoreapp2.2\Framework.RepositoryContract.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\bin\Debug\netcoreapp2.2\Framework.Domain.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\bin\Debug\netcoreapp2.2\Framework.Domain.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.csprojAssemblyReference.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.csproj.CoreCompileInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.AssemblyInfoInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.AssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.csproj.CopyComplete
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.pdb
+C:\Project\MyProject\Framework.netCore\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.dll
+C:\Project\MyProject\Framework.netCore\Framework.RepositoryContract\obj\Debug\netcoreapp2.2\Framework.RepositoryContract.pdb

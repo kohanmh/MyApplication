@@ -1,0 +1,14 @@
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\bin\Debug\netcoreapp3.0\Framework.BusinessService.deps.json
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\bin\Debug\netcoreapp3.0\Framework.BusinessService.dll
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\bin\Debug\netcoreapp3.0\Framework.BusinessService.pdb
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\bin\Debug\netcoreapp3.0\Framework.Domain.dll
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\bin\Debug\netcoreapp3.0\Framework.DTO.dll
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\bin\Debug\netcoreapp3.0\Framework.Domain.pdb
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\bin\Debug\netcoreapp3.0\Framework.DTO.pdb
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp3.0\Framework.BusinessService.csprojAssemblyReference.cache
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp3.0\Framework.BusinessService.AssemblyInfoInputs.cache
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp3.0\Framework.BusinessService.AssemblyInfo.cs
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp3.0\Framework.BusinessService.csproj.CoreCompileInputs.cache
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp3.0\Framework.BusinessService.csproj.CopyComplete
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp3.0\Framework.BusinessService.dll
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp3.0\Framework.BusinessService.pdb

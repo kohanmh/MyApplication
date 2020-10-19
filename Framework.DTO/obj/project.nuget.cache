@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fpa1mi7SSj5dDzQHQDfNKldyg3tj+BYa/ZwDzT5g95UUJLOJfR7gvTyKlx/mahY6x8h6ou366p469YHuLw0gRg==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.DTO\\Framework.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.kohan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

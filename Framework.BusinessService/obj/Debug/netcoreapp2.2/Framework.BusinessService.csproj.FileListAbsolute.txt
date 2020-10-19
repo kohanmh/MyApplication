@@ -1,0 +1,11 @@
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\bin\Debug\netcoreapp2.2\Framework.BusinessService.deps.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\bin\Debug\netcoreapp2.2\Framework.BusinessService.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\obj\Debug\netcoreapp2.2\Framework.BusinessService.csproj.CoreCompileInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\obj\Debug\netcoreapp2.2\Framework.BusinessService.AssemblyInfoInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\obj\Debug\netcoreapp2.2\Framework.BusinessService.AssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\bin\Debug\netcoreapp2.2\Framework.BusinessService.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\obj\Debug\netcoreapp2.2\Framework.BusinessService.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\obj\Debug\netcoreapp2.2\Framework.BusinessService.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.BusinessService\obj\Debug\netcoreapp2.2\Framework.BusinessService.csprojAssemblyReference.cache
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp2.2\Framework.BusinessService.dll
+C:\Project\MyProject\Framework.netCore\Framework.BusinessService\obj\Debug\netcoreapp2.2\Framework.BusinessService.pdb

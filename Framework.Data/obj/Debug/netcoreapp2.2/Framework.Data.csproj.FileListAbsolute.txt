@@ -1,0 +1,14 @@
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\bin\Debug\netcoreapp2.2\Framework.Data.deps.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\bin\Debug\netcoreapp2.2\Framework.Data.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\bin\Debug\netcoreapp2.2\Framework.Data.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\bin\Debug\netcoreapp2.2\Framework.Domain.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\bin\Debug\netcoreapp2.2\Framework.Domain.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.csprojAssemblyReference.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.csproj.CoreCompileInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.AssemblyInfoInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.AssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.csproj.CopyComplete
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.pdb
+C:\Project\MyProject\Framework.netCore\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.dll
+C:\Project\MyProject\Framework.netCore\Framework.Data\obj\Debug\netcoreapp2.2\Framework.Data.pdb

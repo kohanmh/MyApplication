@@ -1,0 +1,11 @@
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\bin\Debug\netcoreapp2.2\Framework.DTO.deps.json
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\bin\Debug\netcoreapp2.2\Framework.DTO.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\bin\Debug\netcoreapp2.2\Framework.DTO.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\obj\Debug\netcoreapp2.2\Framework.DTO.csproj.CoreCompileInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\obj\Debug\netcoreapp2.2\Framework.DTO.AssemblyInfoInputs.cache
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\obj\Debug\netcoreapp2.2\Framework.DTO.AssemblyInfo.cs
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\obj\Debug\netcoreapp2.2\Framework.DTO.dll
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\obj\Debug\netcoreapp2.2\Framework.DTO.pdb
+C:\Users\m.kohan\source\repos\Framework.Web\Framework.DTO\obj\Debug\netcoreapp2.2\Framework.DTO.csprojAssemblyReference.cache
+C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp2.2\Framework.DTO.dll
+C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp2.2\Framework.DTO.pdb
