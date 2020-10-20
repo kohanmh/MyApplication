@@ -10,3 +10,14 @@ C:\Project\MyProject\Framework.netCore\Framework.RepositoryContract\obj\Debug\ne
 C:\Project\MyProject\Framework.netCore\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.csproj.CopyComplete
 C:\Project\MyProject\Framework.netCore\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.dll
 C:\Project\MyProject\Framework.netCore\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.pdb
+D:\Project\MyProject\Framework.RepositoryContract\bin\Debug\netcoreapp3.1\Framework.RepositoryContract.deps.json
+D:\Project\MyProject\Framework.RepositoryContract\bin\Debug\netcoreapp3.1\Framework.RepositoryContract.dll
+D:\Project\MyProject\Framework.RepositoryContract\bin\Debug\netcoreapp3.1\Framework.RepositoryContract.pdb
+D:\Project\MyProject\Framework.RepositoryContract\bin\Debug\netcoreapp3.1\Framework.Domain.dll
+D:\Project\MyProject\Framework.RepositoryContract\bin\Debug\netcoreapp3.1\Framework.Domain.pdb
+D:\Project\MyProject\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.csprojAssemblyReference.cache
+D:\Project\MyProject\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.AssemblyInfoInputs.cache
+D:\Project\MyProject\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.AssemblyInfo.cs
+D:\Project\MyProject\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.csproj.CopyComplete
+D:\Project\MyProject\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.dll
+D:\Project\MyProject\Framework.RepositoryContract\obj\Debug\netcoreapp3.1\Framework.RepositoryContract.pdb

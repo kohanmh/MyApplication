@@ -7,3 +7,11 @@ C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.1\Fra
 C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.1\Framework.DTO.csproj.CoreCompileInputs.cache
 C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.1\Framework.DTO.dll
 C:\Project\MyProject\Framework.netCore\Framework.DTO\obj\Debug\netcoreapp3.1\Framework.DTO.pdb
+D:\Project\MyProject\Framework.DTO\bin\Debug\netcoreapp3.1\Framework.DTO.deps.json
+D:\Project\MyProject\Framework.DTO\bin\Debug\netcoreapp3.1\Framework.DTO.dll
+D:\Project\MyProject\Framework.DTO\bin\Debug\netcoreapp3.1\Framework.DTO.pdb
+D:\Project\MyProject\Framework.DTO\obj\Debug\netcoreapp3.1\Framework.DTO.csprojAssemblyReference.cache
+D:\Project\MyProject\Framework.DTO\obj\Debug\netcoreapp3.1\Framework.DTO.AssemblyInfoInputs.cache
+D:\Project\MyProject\Framework.DTO\obj\Debug\netcoreapp3.1\Framework.DTO.AssemblyInfo.cs
+D:\Project\MyProject\Framework.DTO\obj\Debug\netcoreapp3.1\Framework.DTO.dll
+D:\Project\MyProject\Framework.DTO\obj\Debug\netcoreapp3.1\Framework.DTO.pdb

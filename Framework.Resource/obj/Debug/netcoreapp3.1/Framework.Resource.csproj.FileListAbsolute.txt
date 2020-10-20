@@ -12,3 +12,16 @@ C:\Project\MyProject\Framework.netCore\Framework.Resource\obj\Debug\netcoreapp3.
 C:\Project\MyProject\Framework.netCore\Framework.Resource\obj\Debug\netcoreapp3.1\Fa\Framework.Resource.resources.dll
 C:\Project\MyProject\Framework.netCore\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.dll
 C:\Project\MyProject\Framework.netCore\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.pdb
+D:\Project\MyProject\Framework.Resource\bin\Debug\netcoreapp3.1\Framework.Resource.deps.json
+D:\Project\MyProject\Framework.Resource\bin\Debug\netcoreapp3.1\Framework.Resource.dll
+D:\Project\MyProject\Framework.Resource\bin\Debug\netcoreapp3.1\Framework.Resource.pdb
+D:\Project\MyProject\Framework.Resource\bin\Debug\netcoreapp3.1\Fa\Framework.Resource.resources.dll
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.csprojAssemblyReference.cache
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.MessageKeys.resources
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.MessageKeys.Fa.resources
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.csproj.GenerateResource.cache
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.AssemblyInfoInputs.cache
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.AssemblyInfo.cs
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Fa\Framework.Resource.resources.dll
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.dll
+D:\Project\MyProject\Framework.Resource\obj\Debug\netcoreapp3.1\Framework.Resource.pdb

@@ -12,3 +12,16 @@ C:\Project\MyProject\Framework.netCore\Framework.Repositpry\obj\Debug\netcoreapp
 C:\Project\MyProject\Framework.netCore\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.csproj.CopyComplete
 C:\Project\MyProject\Framework.netCore\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.dll
 C:\Project\MyProject\Framework.netCore\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.pdb
+D:\Project\MyProject\Framework.Repositpry\bin\Debug\netcoreapp3.1\Framework.Repositpry.deps.json
+D:\Project\MyProject\Framework.Repositpry\bin\Debug\netcoreapp3.1\Framework.Repositpry.dll
+D:\Project\MyProject\Framework.Repositpry\bin\Debug\netcoreapp3.1\Framework.Repositpry.pdb
+D:\Project\MyProject\Framework.Repositpry\bin\Debug\netcoreapp3.1\Framework.Domain.dll
+D:\Project\MyProject\Framework.Repositpry\bin\Debug\netcoreapp3.1\Framework.RepositoryContract.dll
+D:\Project\MyProject\Framework.Repositpry\bin\Debug\netcoreapp3.1\Framework.RepositoryContract.pdb
+D:\Project\MyProject\Framework.Repositpry\bin\Debug\netcoreapp3.1\Framework.Domain.pdb
+D:\Project\MyProject\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.csprojAssemblyReference.cache
+D:\Project\MyProject\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.AssemblyInfoInputs.cache
+D:\Project\MyProject\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.AssemblyInfo.cs
+D:\Project\MyProject\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.csproj.CopyComplete
+D:\Project\MyProject\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.dll
+D:\Project\MyProject\Framework.Repositpry\obj\Debug\netcoreapp3.1\Framework.Repositpry.pdb

@@ -1,40 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\MyProject\\Framework.netCore\\Framework.BusinessService\\Framework.BusinessService.csproj": {}
+    "D:\\Project\\MyProject\\Framework.BusinessService\\Framework.BusinessService.csproj": {}
   },
   "projects": {
-    "C:\\Project\\MyProject\\Framework.netCore\\Framework.BusinessService\\Framework.BusinessService.csproj": {
+    "D:\\Project\\MyProject\\Framework.BusinessService\\Framework.BusinessService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\MyProject\\Framework.netCore\\Framework.BusinessService\\Framework.BusinessService.csproj",
+        "projectUniqueName": "D:\\Project\\MyProject\\Framework.BusinessService\\Framework.BusinessService.csproj",
         "projectName": "Framework.BusinessService",
-        "projectPath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.BusinessService\\Framework.BusinessService.csproj",
-        "packagesPath": "C:\\Users\\m.kohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.BusinessService\\obj\\",
+        "projectPath": "D:\\Project\\MyProject\\Framework.BusinessService\\Framework.BusinessService.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\MyProject\\Framework.BusinessService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\m.kohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\m.kohan\\AppData\\Roaming\\pajoohesh\\Packages\\nuget-repo": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Project\\MyProject\\Framework.netCore\\Framework.Domain\\Framework.Domain.csproj": {
-                "projectPath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.Domain\\Framework.Domain.csproj"
+              "D:\\Project\\MyProject\\Framework.Domain\\Framework.Domain.csproj": {
+                "projectPath": "D:\\Project\\MyProject\\Framework.Domain\\Framework.Domain.csproj"
               },
-              "C:\\Project\\MyProject\\Framework.netCore\\Framework.DTO\\Framework.DTO.csproj": {
-                "projectPath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.DTO\\Framework.DTO.csproj"
+              "D:\\Project\\MyProject\\Framework.DTO\\Framework.DTO.csproj": {
+                "projectPath": "D:\\Project\\MyProject\\Framework.DTO\\Framework.DTO.csproj"
               }
             }
           }
@@ -68,31 +68,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Project\\MyProject\\Framework.netCore\\Framework.Domain\\Framework.Domain.csproj": {
+    "D:\\Project\\MyProject\\Framework.Domain\\Framework.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\MyProject\\Framework.netCore\\Framework.Domain\\Framework.Domain.csproj",
+        "projectUniqueName": "D:\\Project\\MyProject\\Framework.Domain\\Framework.Domain.csproj",
         "projectName": "Framework.Domain",
-        "projectPath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.Domain\\Framework.Domain.csproj",
-        "packagesPath": "C:\\Users\\m.kohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.Domain\\obj\\",
+        "projectPath": "D:\\Project\\MyProject\\Framework.Domain\\Framework.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\MyProject\\Framework.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\m.kohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\m.kohan\\AppData\\Roaming\\pajoohesh\\Packages\\nuget-repo": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -129,31 +129,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Project\\MyProject\\Framework.netCore\\Framework.DTO\\Framework.DTO.csproj": {
+    "D:\\Project\\MyProject\\Framework.DTO\\Framework.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\MyProject\\Framework.netCore\\Framework.DTO\\Framework.DTO.csproj",
+        "projectUniqueName": "D:\\Project\\MyProject\\Framework.DTO\\Framework.DTO.csproj",
         "projectName": "Framework.DTO",
-        "projectPath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.DTO\\Framework.DTO.csproj",
-        "packagesPath": "C:\\Users\\m.kohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\MyProject\\Framework.netCore\\Framework.DTO\\obj\\",
+        "projectPath": "D:\\Project\\MyProject\\Framework.DTO\\Framework.DTO.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\MyProject\\Framework.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\m.kohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\m.kohan\\AppData\\Roaming\\pajoohesh\\Packages\\nuget-repo": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -190,7 +190,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

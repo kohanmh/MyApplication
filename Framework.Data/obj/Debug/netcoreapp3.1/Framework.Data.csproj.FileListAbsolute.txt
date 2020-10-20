@@ -10,3 +10,14 @@ C:\Project\MyProject\Framework.netCore\Framework.Data\obj\Debug\netcoreapp3.1\Fr
 C:\Project\MyProject\Framework.netCore\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.csproj.CopyComplete
 C:\Project\MyProject\Framework.netCore\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.dll
 C:\Project\MyProject\Framework.netCore\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.pdb
+D:\Project\MyProject\Framework.Data\bin\Debug\netcoreapp3.1\Framework.Data.deps.json
+D:\Project\MyProject\Framework.Data\bin\Debug\netcoreapp3.1\Framework.Data.dll
+D:\Project\MyProject\Framework.Data\bin\Debug\netcoreapp3.1\Framework.Data.pdb
+D:\Project\MyProject\Framework.Data\bin\Debug\netcoreapp3.1\Framework.Domain.dll
+D:\Project\MyProject\Framework.Data\bin\Debug\netcoreapp3.1\Framework.Domain.pdb
+D:\Project\MyProject\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.csprojAssemblyReference.cache
+D:\Project\MyProject\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.AssemblyInfoInputs.cache
+D:\Project\MyProject\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.AssemblyInfo.cs
+D:\Project\MyProject\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.csproj.CopyComplete
+D:\Project\MyProject\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.dll
+D:\Project\MyProject\Framework.Data\obj\Debug\netcoreapp3.1\Framework.Data.pdb

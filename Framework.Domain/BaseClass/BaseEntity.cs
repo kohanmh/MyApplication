@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Framework.Domain
 {
-    public class BaseEntity<TKey>
+    public class BaseEntity<TKey> where TKey : class
     {
         public TKey Key { get; set; }
     }

@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Framework.RepositoryContract.Base
+namespace Framework.Domain
 {
-    public interface IRepositoryBase<TEntity>
+    public interface IGenericRepository<TEntity,T> where TEntity : BaseEntity<T> where T : class
     {
         void Create(TEntity entity);
         void Delete(TEntity entity);
