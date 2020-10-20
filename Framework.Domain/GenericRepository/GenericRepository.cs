@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Framework.Domain
 {
-    public class GenericRepository<TEntity, T> : IGenericRepository<TEntity, T> where TEntity : BaseEntity<T> where T : class 
+    public class GenericRepository<TEntity, T> : IGenericRepository<TEntity,T> where TEntity : BaseEntity<T> where T : class 
     {
         internal DataBaseContext context;
         internal DbSet<TEntity> dbSet;
